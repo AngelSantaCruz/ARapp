@@ -1,0 +1,12 @@
+# Blender 3.6.12 MTL File: '3dexterior.blend'
+# www.blender.org
+
+newmtl lambert1
+Ns 360.000000
+Ka 0.292135 0.292135 0.292135
+Kd 0.358846 0.169135 0.030246
+Ks 0.960674 0.960674 0.960674
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
